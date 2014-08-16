@@ -1,3 +1,3 @@
-<?php namespace Leger\DTO\Exceptions;
+<?php namespace Leger\dto\Exceptions;
 
 class PropertyAlreadyAssignedException extends \Exception {}

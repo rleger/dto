@@ -1,4 +1,4 @@
-<?php namespace Leger\DTO;
+<?php namespace Leger\dto;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -23,7 +23,7 @@ class DTOServiceProvider extends ServiceProvider {
 
     public function boot()
     {
-//        $this->package('leger/dto');
+        $this->package('leger/dto');
     }
 
 	/**

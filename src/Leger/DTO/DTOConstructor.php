@@ -1,7 +1,7 @@
-<?php namespace Leger\DTO;
+<?php namespace Leger\dto;
 
-use Leger\DTO\Exceptions\InvalidDTOException;
-use Leger\DTO\Exceptions\PropertyAlreadyAssignedException;
+use Leger\dto\Exceptions\InvalidDTOException;
+use Leger\dto\Exceptions\PropertyAlreadyAssignedException;
 
 abstract class DTOConstructor implements DTOConstructorInterface {
 

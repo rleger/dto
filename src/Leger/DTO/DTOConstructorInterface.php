@@ -1,4 +1,4 @@
-<?php namespace Leger\DTO;
+<?php namespace Leger\dto;
 
 interface DTOConstructorInterface {
 
