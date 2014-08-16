@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Leger\\DTO": "src/"
+            "Leger\\dto": "src/"
         }
     },
     "minimum-stability": "stable"
