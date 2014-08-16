@@ -1,5 +1,7 @@
 <?php namespace Leger\dto;
 
+use Illuminate\Support\ServiceProvider;
+
 class DTOConstructorServiceProvider extends ServiceProvider {
 
         /**
